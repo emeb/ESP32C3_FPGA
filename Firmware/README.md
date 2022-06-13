@@ -35,7 +35,7 @@ use the command
 idf.py -p <serial device> flash
 ````
 
-where <serial device> is the USB serial device which is created when the board
+where `<serial device>` is the USB serial device which is created when the board
 enumerates.
 
 ## Monitoring
